@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bloat/static/css/main.b0619e7a.css",
+    "main.js": "/bloat/static/js/main.45f0e361.js",
+    "index.html": "/bloat/index.html",
+    "main.b0619e7a.css.map": "/bloat/static/css/main.b0619e7a.css.map",
+    "main.45f0e361.js.map": "/bloat/static/js/main.45f0e361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0619e7a.css",
+    "static/js/main.45f0e361.js"
+  ]
+}
