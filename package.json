@@ -1,6 +1,7 @@
 {
     "name": "bloat",
     "version": "0.1.0",
+    "homepage": "https://mulling.github.io/bloat/",
     "private": true,
     "dependencies": {
         "@types/jest": "^27.5.2",

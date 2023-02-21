@@ -13,7 +13,11 @@ root.render(
                 <h2>./bloat<span className='cursor'>_</span></h2>
             </header>
 
-            <div className='article'> <span> {"//"}&nbsp;</span> <span className='TODO'> TODO</span> <span>: Add more bloat</span> </div>
+            <div className='article'>
+                <p>
+                    <span> {"//"}&nbsp;</span> <span className='TODO'> TODO</span> <span>: Add more bloat</span>
+                </p>
+            </div>
 
             <footer>
                 <h4><span className="copyleft">&copy;</span>Lucas Eduardo Fischer Mülling</h4>
